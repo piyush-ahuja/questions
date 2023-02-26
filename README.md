@@ -1,2 +1,2 @@
-# General Questions covering SQL, Python and Git
-
+# General Questions 
+List of questions covering SQL, Python and Git
